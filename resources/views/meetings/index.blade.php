@@ -44,6 +44,7 @@
                             @endforeach
                         </tbody>
                     </table>
+                    {!! $meeting_list->links() !!}
                 </div>
             </div>
         </div>

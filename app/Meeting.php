@@ -11,7 +11,7 @@ class Meeting extends Model
 {
     public function getMeetingList()
     {
-        return Meeting::get();
+        return Meeting::paginate(10);
     }
 
     public function getMeetingById($id)
