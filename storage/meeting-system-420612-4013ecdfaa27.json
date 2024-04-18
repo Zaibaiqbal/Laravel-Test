@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "meeting-system-420612",
+  "private_key_id": "4013ecdfaa27905e08d069ebddf85f2534b766e0",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDBR8eQ7pgvxyPF\ngi685yJpSGfRjlT9aSt7tUa8jtBqoG3f3zyVvcn+Kni9HyN7dwsW6+jp0gqoAaBR\nmaEsK9R53WG0S9tXJRaRr2VQ9RCd5uYv6rMc7gE/nLgbPhVLiu9qEbEw4sRZQgnO\n9S0cKcygnp9dGtaKdU8or4SLsyzh0fIoGl92MnCv3/xQsCTO7w8oSehdbNCEZfkK\njtjIPoG7qeq8WCJEVQMgRY99pmYx2dAWSXkgiSLdK2oPhVrQGdVMh1n3/Ee6fPLe\n3CZYkQf1VdnegXCpXtiPV8ACVUHUxevwIIGqOt/N5Sb03aSuvpTbSG7clsF0Ng5o\niy+o7aczAgMBAAECggEATb5KlpByJJ2sVNClbhRmcgTOxarDot6/v9XNqyCi0pDP\nQUJxAyZA7nw07pVs10et7T1dBVgYMzXcP5ZVDwheQdp7Z2MvyeDAMD9luGeqlGkA\n4/s6qoNNe0HViBezxxwOaxLMvAYqxmBaw6U4zOA/T8gd//xAmZbQDWR0IyEiB36P\n18F2s167m3Ak8wAbxqdT3Q5UQsZtNz9U8lSXomZfwXEXIuQKYErYhY5R9oCxFOs0\nxuU0rXBQ9eESDEji1Dx4zpTiJfrgWQXsT8QkZbhH5sSw3c9jo0OcYuz/TO5Tq6NR\na2EnhJgWZrFefqtFnIx3B4uvjw2a1kt4/e3DS2oi8QKBgQD8HPhe+6KMXS57JKDW\nrJvUfAC2e6MfUZlxfX4hyLgMfyCP4W2GhKPp3O0xb8YCH1txiD+C7UPKOS0NOqeG\nFRfERZAZDsqJAKVFQo42hHAJWRCZOQQC7I7mmG86k7P0AptAZvBPu0iAWbAg6eOY\nor8qfBeAycYhzL8PFndWem6XawKBgQDEQpxPvAMbbt5KFo7xdhgLHOp3tJC3SmRi\nKm6TNkcNH4y9ENxv3q2unoQ88zZtcA8yeWSQD2M72rdxDAmC6VZ8j2I58IQzXB2v\nDQTvboq8LMJqXwCzrotALxWjRpWRHufWEwtmXgJblMzvlwahVLma3ruMXFtttbfR\nTfPd6MjJWQKBgEZWHsUBFzxp0snwUh8SUPdbESfYHo5iSZjsFgB+6zoxTXhWwCPD\nZaedR19/e5KkBPMLvAxe/YaxpOwH7SzvPY44ihczlTXbxEAqbVqwYEF7Y7Ibwg6+\nyK9037NL+eydvYqeLXVRHs0QOJ82IZU38nV74WLA6FINuVAQSIML7Ua5AoGAJyn7\ns1WbcSAAr9wsjja4uY79owGfV1Q7D/PTuQC90PqYxSnWM2TGV/A+B0OpetE/1xyu\nWqkXblxI+wAh7cPOhHDAcztxxiX9rm70qyrt+HseGMf4heKw2xAKS1jMg/cc4HVQ\ncw8TfV8GPlFu+0bC+wqzdmD/xbbbhaL+pSvM1ZECgYAwoMCtORTY7G+lmg/pfzei\nD20yTRtNnsF3Eqn98inHcfzYRl3JYDHPGKXTvBQGOqhvzhYbV3Sw+iLVDoF/mLOR\ncNrLiT/fKMZlZWM80n6SZxYNdwjuFPBOH2vDuKPklhl8f2HmCi+sAWv62o9ADGtt\nraybH+h9ZhPIggNw+KjpEA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "meeting-sys-37@meeting-system-420612.iam.gserviceaccount.com",
+  "client_id": "112108798589572117028",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/meeting-sys-37%40meeting-system-420612.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
