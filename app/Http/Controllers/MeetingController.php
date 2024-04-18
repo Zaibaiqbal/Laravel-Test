@@ -74,7 +74,8 @@ class MeetingController extends Controller
 
             if(isset($meeting->id))
             {
-                return redirect()->route('meeting');
+                return redirect()->back()->with('success', 'Record updated successfully');   
+
             }
 
         }
@@ -93,9 +94,30 @@ class MeetingController extends Controller
 
     }
 
-    public function deleteMeeting()
+    public function deleteMeeting(Request $request)
     {
 
-        
+        $meeting_id = $request->id;
+
+
+        $meeting = $this->meeting->getMeetingById($meeting_id);
+
+        if(isset($meeting->id))
+        {
+            foreach($meeting->attendees as $rows)
+            {
+                $rows->delete();
+            }
+            $meeting->delete();
+        }
+        else
+        {
+        return redirect()->back()->with('error', 'Record not found');   
+
+        }
+
+        return redirect()->back()->with('success', 'Record deleted successfully');   
+
+
     }
 }

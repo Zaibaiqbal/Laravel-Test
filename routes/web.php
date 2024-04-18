@@ -28,4 +28,4 @@ Route::match(['get','post'],'storemeeting','MeetingController@storeMeeting')->na
 
 Route::match(['get','post'],'updatemeeting','MeetingController@updateMeeting')->name('update.meeting');
 
-Route::post('deletemeeting','MeetingController@deleteMeeting')->name('delete.meeting');
+Route::delete('deletemeeting','MeetingController@deleteMeeting')->name('delete.meeting');
